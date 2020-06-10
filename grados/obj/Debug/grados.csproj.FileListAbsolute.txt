@@ -1,0 +1,9 @@
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\bin\Debug\grados.exe.config
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\bin\Debug\grados.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\bin\Debug\grados.pdb
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\obj\Debug\grados.csprojAssemblyReference.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\obj\Debug\grados.Form1.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\obj\Debug\grados.Properties.Resources.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\obj\Debug\grados.csproj.GenerateResource.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\obj\Debug\grados.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\grados\obj\Debug\grados.pdb

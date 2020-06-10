@@ -1,0 +1,9 @@
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\obj\Debug\examenunidad2 Ejercicio1.csprojAssemblyReference.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\obj\Debug\examenunidad2_Ejercicio1.Form1.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\obj\Debug\examenunidad2_Ejercicio1.Properties.Resources.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\obj\Debug\examenunidad2 Ejercicio1.csproj.GenerateResource.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\bin\Debug\examenunidad2 Ejercicio1.exe.config
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\bin\Debug\examenunidad2 Ejercicio1.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\bin\Debug\examenunidad2 Ejercicio1.pdb
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\obj\Debug\examenunidad2 Ejercicio1.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\examenunidad2 Ejercicio1\obj\Debug\examenunidad2 Ejercicio1.pdb

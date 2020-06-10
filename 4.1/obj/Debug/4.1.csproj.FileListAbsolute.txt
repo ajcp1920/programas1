@@ -1,0 +1,9 @@
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\bin\Debug\4.1.exe.config
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\bin\Debug\4.1.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\bin\Debug\4.1.pdb
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\obj\Debug\4.1.csprojAssemblyReference.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\obj\Debug\_4._1.Form1.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\obj\Debug\_4._1.Properties.Resources.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\obj\Debug\4.1.csproj.GenerateResource.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\obj\Debug\4.1.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\4.1\obj\Debug\4.1.pdb

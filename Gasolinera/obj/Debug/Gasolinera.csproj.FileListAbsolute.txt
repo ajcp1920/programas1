@@ -1,0 +1,9 @@
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\bin\Debug\Gasolinera.exe.config
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\bin\Debug\Gasolinera.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\bin\Debug\Gasolinera.pdb
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\obj\Debug\Gasolinera.csprojAssemblyReference.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\obj\Debug\Gasolinera.Form1.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\obj\Debug\Gasolinera.Properties.Resources.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\obj\Debug\Gasolinera.csproj.GenerateResource.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\obj\Debug\Gasolinera.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\Gasolinera\obj\Debug\Gasolinera.pdb

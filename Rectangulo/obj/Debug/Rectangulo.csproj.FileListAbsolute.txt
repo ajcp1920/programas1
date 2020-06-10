@@ -1,0 +1,9 @@
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\bin\Debug\Rectangulo.exe.config
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\bin\Debug\Rectangulo.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\bin\Debug\Rectangulo.pdb
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\obj\Debug\Rectangulo.csprojAssemblyReference.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\obj\Debug\Rectangulo.Form1.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\obj\Debug\Rectangulo.Properties.Resources.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\obj\Debug\Rectangulo.csproj.GenerateResource.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\obj\Debug\Rectangulo.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\Rectangulo\obj\Debug\Rectangulo.pdb

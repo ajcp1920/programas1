@@ -1,0 +1,9 @@
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\bin\Debug\ElMejorProyectoDelMundo.exe.config
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\bin\Debug\ElMejorProyectoDelMundo.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\bin\Debug\ElMejorProyectoDelMundo.pdb
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\obj\Debug\ElMejorProyectoDelMundo.csprojAssemblyReference.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\obj\Debug\ElMejorProyectoDelMundo.Form1.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\obj\Debug\ElMejorProyectoDelMundo.Properties.Resources.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\obj\Debug\ElMejorProyectoDelMundo.csproj.GenerateResource.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\obj\Debug\ElMejorProyectoDelMundo.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\ElMejorProyectoDelMundo\obj\Debug\ElMejorProyectoDelMundo.pdb

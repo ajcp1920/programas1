@@ -1,0 +1,9 @@
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\bin\Debug\ejercicio 13.exe.config
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\bin\Debug\ejercicio 13.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\bin\Debug\ejercicio 13.pdb
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\obj\Debug\ejercicio 13.csprojAssemblyReference.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\obj\Debug\ejercicio_13.Form1.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\obj\Debug\ejercicio_13.Properties.Resources.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\obj\Debug\ejercicio 13.csproj.GenerateResource.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\obj\Debug\ejercicio 13.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\ejercicio 13\obj\Debug\ejercicio 13.pdb

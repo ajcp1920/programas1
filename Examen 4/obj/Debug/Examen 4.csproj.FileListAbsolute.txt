@@ -1,0 +1,9 @@
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\obj\Debug\Examen 4.csprojAssemblyReference.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\obj\Debug\Examen_4.Form1.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\obj\Debug\Examen_4.Properties.Resources.resources
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\obj\Debug\Examen 4.csproj.GenerateResource.cache
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\bin\Debug\Examen 4.exe.config
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\bin\Debug\Examen 4.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\bin\Debug\Examen 4.pdb
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\obj\Debug\Examen 4.exe
+C:\Users\ajcp1\source\repos\POO Ahumada\Examen 4\obj\Debug\Examen 4.pdb
